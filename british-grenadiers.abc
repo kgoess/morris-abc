@@ -1,0 +1,32 @@
+X:1
+T:The British Grenadiers
+M:4/4
+C:
+S:Bacon (CJS MSS)
+N:
+A:Longborough
+O:English
+R:Reel
+%P:A(AB$^2$)$^2$(AC$^2$)$^2$
+Q:1/2=70
+P:IA(AB2)2(AC2)2
+K:G
+P:I Intro
+D2 | "G" G2 D2 G2 A2 | "G" B2 cB "D" A2 Bc | "G" d2 G2 BAGF | G4 z2 D2 |
+w:Some | talk  of Al-ex- | an_-der and_ | some of  Her_cu_ | les, Of 
+     "G" G2 D2 G2 A2 | "G"  B2 cB "D" A2 Bc | "G" d2 G2 BAGF | G4 z2 Bc |
+w: Hec-tor and Ly- | sa_-der and_ | such great names_ as_ | these. But of
+     "G" d3 e  d2 c2 | B3 c  d2 d2 | "C" e2 e2 dcBA  | "G" G4 "D" F2 DD |\
+w: all the world's great | he_roes there's | none that can_ com_ | pare_ With a 
+     "G" G2 G2  "D" A2 A2 | "G" B2 B2  "C" c2 Bc | "G" d2 G2 "D" BAGF | "G" G4 z2 ||
+w: tah rah rah rah  | rah rah rah to the | Bri-tish Gre_na_ | diers.
+P:A ---
+ D2 | "G" G2 D2 G2 A2 | B2 cB "D" A2 Bc | "G" d2 G2 G2 B2 | "D" AGFE  D4 |
+      "G" G2 D2 G2 A2 | B2 AB "C" c2 Bc | "G" d2 G2 "D" BAGF  | "G" G4    G2 ||
+P:B ---
+Bc |  "G" d3 e  d2 c2 | B3 c  d2 d2 | "C" e2 e2 "D" dcBA  | "G" G4 "D" F2 D2 |
+      "G" G2 D2 G2 A2 | B2 AB "C" c2 Bc | "G" d2 G2 "D" BAGF  | "G"  G4    G2 ||
+P:C ---
+Bc | "G" d3 e  d2 c2 | B3 c  d2 d2 | "C" e4    e4    | "D" d2 c2 B2 A2 | "G" G4 G4 | "D" F4 D4 |
+     "G" G2 D2 G2 A2 | B2 AB "C" c2 Bc | "G" d2 G2 "D" BAGF  | "G" G4    G2 ||
+

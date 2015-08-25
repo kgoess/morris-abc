@@ -1,0 +1,20 @@
+X:1
+T:Grandfather Clock
+M:4/4
+C:
+S:Berkeley Morris
+N:dance by Anton Cepernich
+A:Field Town
+O:
+R:Reel
+P:A((AB)2C2)2C
+Q:1/2=70
+K:G
+P:A
+|: DD | "G" G2 FG "D" A2 GA | "G" B2  cB "C" E2 AA | "G" G2 GG "D" FE F2 |  "G" G4     G2    :|
+P:B
+   Bc | "G" d2 BA G2 FG | "D" AG    FE D2 Bc | "G" d2 BA GF G2 |
+   "D" A4 A2  DD | "G" G2 z2  "D" A2 z2 | "G" (3BBB cB "C" E2 AA | "G" G2 GG "D" FE F2 | "G" G4     G2    ||
+P:C
+   DD | "G" G2 DD "C" E2 DD | "G" B,2   DD "C" E2 DD | "G" G2 DD "C" E2 DD | "G" B,2 DD "C" E2      
+   DD | "G" G2 z2 "D" A2 z2 | "G" (3BBB cB "C" E2 AA | "G" G2 GG "D" FE F2 | "G" G4     G2    ||
