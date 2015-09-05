@@ -1,0 +1,16 @@
+X:1
+T:Bonnets So Blue, Bucknell
+M:6/8
+L:1/8
+Q:1/8=150
+A:Bucknell
+P:A2(BC)2
+K:G
+P:A
+D | "G" G>GG GAB | "G" D>DD "(D)" DEF | "G" GBe dBG | "D" A>BA A2 B|
+"G" G>GG GAB | D>DD "D" D2e | "G" dcB "D" ABA | "G" G3   G2||
+P:B
+G | "D" FGA  ABA | D>DD D2G | FGA "A" AB^c | "D" d3   d2c|
+"G" B2A  G2F | "C" E2F  G2A | "G" BcB "D" AGF | "C" E3   E2D|
+"G" G>GG GAB | "G" D>DD D2G | "D" FGA "A" AB^c | "D" d3   d2c|
+"G" B2A  GAB | "C" cde "G" d2e | "G" dcB  "D" AGF | "G" G3   G3 ||
