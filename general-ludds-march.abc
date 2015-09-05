@@ -1,15 +1,15 @@
 X:1
-T:General Ludd's March
+T:General Ludd's March 
 C:Fieldtown
 Q:1/4=140
 M:6/8
 L:1/8   
-K:Am
+K:C
 P:A
-dc |B3/2A/G GED |EGc B2 A |G3/2E/D EGA |A4dc|
-B3/2A/G GED |EGc B2 A |G3/2E/D EGG |G4 z G |
+dc |"G" B3/2A/G GED |"(C)" EGc "G" B2 A |"G" G3/2E/D EGA |"D" A4dc|
+"G" B3/2A/G GED |"(C)" EGc "G" B2 A |"G" G3/2E/D "(C)" EGG |"G" G4 z G |
 P:B
-G3/2B/d dBd |e3/2d/c Hd2 c| B3/2A/G GBd |A4 dc|
- B3/2A/G GED |EGc B2A| G3/2E/D EGG |G4 DE |
-F2 FE DC |D3 G2A |Bdc BGF |G4 z2|]
-   
+"G" G3/2B/d dBd |"(C)" e3/2d/c "G" Hd2 c| "G" B3/2A/G GBd |"D" A4 dc|
+"G" B3/2A/G GED |"(C)" EGc "G" B2A| "G" G3/2E/D "(C)" EGG |"G" G4 DE |
+"F" F2F EDC |"G" D3 G2A |"G" Bdc BG"(F)"F |G4 z2|]
+
