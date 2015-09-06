@@ -24,9 +24,6 @@ P:A ---
  D2 | "G" G2 D2 G2 A2 | B2 cB "D" A2 Bc | "G" d2 G2 G2 B2 | "D" AGFE  D4 |
       "G" G2 D2 G2 A2 | B2 AB "C" c2 Bc | "G" d2 G2 "D" BAGF  | "G" G4    G2 ||
 P:B ---
-Bc |  "G" d3 e  d2 c2 | B3 c  d2 d2 | "C" e2 e2 "D" dcBA  | "G" G4 "D" F2 D2 |
-      "G" G2 D2 G2 A2 | B2 AB "C" c2 Bc | "G" d2 G2 "D" BAGF  | "G"  G4    G2 ||
-P:C ---
-Bc | "G" d3 e  d2 c2 | B3 c  d2 d2 | "C" e4    e4    | "D" d2 c2 B2 A2 | "G" G4 G4 | "D" F4 D4 |
-     "G" G2 D2 G2 A2 | B2 AB "C" c2 Bc | "G" d2 G2 "D" BAGF  | "G" G4    G2 ||
+Bc |  "G" d3 e  d2 c2 | B3 c  d2 d2 | "C" e2 e2 "D" dcBA  | "G" G2 AG "D" F2 D2 |
+      "G" G2 FG A2 GA | B2 AB "C" c2 Bc | "G" d2 G2 "D" BAGF  | "G"  G4    G2 :||
 
