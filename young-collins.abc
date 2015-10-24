@@ -12,10 +12,12 @@ R:Reel
 Q:1/2=75
 P:A.(AB)4(A)
 K:G
+%%writefields N               % the N: field is printed out
+N:arr. Alison S. 2015-10-18
 %I:speed 400
 L:1/8
 P:A
-|:"G"  GABc  d2 d2 | "C" c2 e2 "D" A2 Bc | "G" d2 d2 "C" e2 dc | "G" B2 "D" A2 "G" G4 :|
+|:"G"  GABc  d2 d2 | "C" c2 e2 "D" A2 Bc | "G" d2 d2 "C" e2 dc | "D" B2 A2 "G" G4 :|
 P:B
-|: "C" E2 D2 EF G2 | "D" A2 A2 "G" G3 A  | "G" B2 A2 Bc d2 | "C" e2 e2 "D" d4 |
-"G" GABc  d2 d2 | "C" c2 e2 "D" A2 Bc | "G" d2 d2 "C" e2 dc | "G" B2 "D" A2 "G" G4 :|
+|: "C" E2 D2 EF G2 | "D" A2 A2 "G" G3 A  | "G" B2 A2 Bc d2 | "C" e2 e2 "D" dcBA |
+|"G" GABc  d2 d2 | "C" c2 e2 "D" A2 Bc | "G" d2 d2 "C" e2 dc | "D" B2 A2 "G" G4 :|

@@ -4,10 +4,12 @@ C:Traditional
 Q:1/4=120
 V:1
 M:4/4
+%%writefields N               % the N: field is printed out
+N:arr. Alison S. 2015-10-18
 L:1/8    
 K:G
 "G" GA BA GA BA | G2 E2 "C" E2 D2 | "G" GA BA GA BG | "C" c2 A2 "D" A4 |
-"G" GA BA GA BA | G2 E2 "C" c4 | "C" E2 DC "G" D2 GA | "D" c2 A2 A4 ||
-"G" d3 c B2 AB | "C" G2 E2 E4 | "G" d3 c B2 AB | "D" c2 A2 A4 |
-"G" d3 c B2 AB | G2 E2 "C" c4 | "C" E2 DC "G" D2 GA | "D" c2 A2 A4 |]
+"G" GA BA GA BA | "C" G2 E2 c4 | "G" E2 DC D2 GB | "C" c2 A2  "D" A4 ||
+"G" d3 c B2 AB | "C" G2 E2  "D" E2 D2 | "G" d3 c B2 AB | "C" c2 A2 "D" A4 |
+"G" d3 c B2 AB | "C" G2 E2 c4 | "G" E2 DC D2 GB | "C" c2 A2 "D" A4 |]
    
