@@ -9,7 +9,7 @@ O:Canada
 R:Reel
 P:2(AB)2(AC)
 %%writefields N               % the N: field is printed out
-N:arr. Alison S. 2015-10-18
+%%writefields S               % the S: field is printed out
 K:G
 P:A
 GA | "G"B2 d2 d2 cB | "D" AG A2 "G" B2 D2 | "C" E2 G2 "D" G2 F2 | "Em" E4  z2D2 |
