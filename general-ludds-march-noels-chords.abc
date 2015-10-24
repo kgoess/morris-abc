@@ -6,10 +6,10 @@ M:6/8
 L:1/8   
 K:Gmix
 P:A
-dc |"G" B3/2A/G "G/B" GED |"C" EGc "G/B" B2 A |"C" G3/2E/D "Am" EGA |"D" A4dc|
-"Em" B3/2A/G "D" GED |"C" EGc "G/B" B2 A |"Am" G3/2E/D "C/D" EGG |"G" G4 z G |
+dc |"G" B3/2A/G "G/B" GED |"C" EGc "G/B" B2 A |"C" G3/2E/D "Am" EGA |"D" A3 z dc|
+"Em" B3/2A/G "D" GED |"C" EGc "G/B" B2 A |"Am" G3/2E/D "C/D" EGG |"G" G3 z2 G |
 P:B
-"G" G3/2B/d "G/B" dBd |"C" e3/2d/c "D" d2 c| "Em" B3/2A/G "Bm" GBd |"Am" A4 "D" dc|
-"Em" B3/2A/G "D" GED |"C" EGc "G/B" B2A| "Am" G3/2E/D "C/D" EGG |"G" G4 DE |
-"F" F2F "C" EDC |"G" D3 G2A |"G" Bdc BG "F" F | "G" G4 z2|]
+"G" G3/2B/d "G/B" dBd |"C" e3/2d/c "D" Hd2 c| "Em" B3/2A/G "Bm" GBd |"Am" A3 "D" z dc|
+"Em" B3/2A/G "D" GED |"C" EGc "G/B" B2A| "Am" G3/2E/D "C/D" EGG |"G" G3 D2E |
+"F" F2F "C" EDC |"G" D3 G2A |"G" Bdc BG "F" F | "G" G3-G z2 |]
 
