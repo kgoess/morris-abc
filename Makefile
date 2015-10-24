@@ -12,3 +12,6 @@ $(INSTDIR)%.abc: %.abc
 
 
 
+# possibly see also
+# http://stackoverflow.com/questions/14163344/make-makefile-rule-for-copying-files-into-target-directory
+# http://stackoverflow.com/questions/18091538/makefile-copying-files-with-a-rule
