@@ -7,16 +7,18 @@ N:dance by Anton Cepernich
 A:Field Town
 O:
 R:Reel
+%%partsfont        Times-Italic  22
 P:A((AB)2C2)2C
 %%writefields N               % the N: field is printed out
-N:arr. Alison S. 2015-10-18
+N:arr. Alison S. 2015-10-24
 Q:1/2=70
 K:G
 P:A
-|: D2 | "G" G2 FG "D" A2 GA | "G" B2  cB "C" E2 AA | "G" G2 GG "D" FE F2 |  "G" G4     G2    :|
+ D2 | "G" G2 FG "D" A2 GA | "G" B2  cB "C" E2 AA | "G" G2 GG "D" FE F2 |  "G" G4  z2 D2    |
+ "G" G2 FG "D" A2 GA | "G" B2  cB "C" E2 AA | "G" G2 GG "D" FE F2 |  "G" G4  G2    ||
 P:B
    Bc | "G" d2 BA G2 FG | "D" AG    FE D2 Bc | "G" d2 BA G2 FG |
-   "D" A4 A2  DD | "G" G2 z2  "D" A2 z2 | "G" (3BBB cB "C" E2 AA | "G" G2 GG "D" FE F2 | "G" G4     G2    ||
+   "D" A6  DD | "G" G2 z2  "D" A2 z2 | "G" (3BBB cB "C" E2 AA | "G" G2 GG "D" FE F2 | "G" G4     G2    ||
 P:C
-   DD | "G" G2 DD "C" EE D2 | "G" B,2 D B,2 D | "G" G2 DD "C" EE D2 | "G" B,2 D B,2 DD      
+   DD | "G" G2 DD "C" EE D2 | "G" B,2 D2 B,2 D2 | "G" G2 DD "C" EE D2 | "G" B,2 D2 B,2 DD      
    | "G" G2 z2 "D" A2 z2 | "G" (3BBB cB "C" E2 AA | "G" G2 GG "D" FE F2 | "G" G4     G2    ||
