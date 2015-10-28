@@ -6,6 +6,8 @@ S:Bacon (CJS from Benfield \& Bond, 1909)
 N:
 A:Bledington
 O:English
+%%writefields N               % the N: field is printed out
+N:ok Alison S. 2015-10-26
 N:Pipe & Bowl: https://www.youtube.com/watch?v=ea0pRlOA0kA
 R:Reel
 %P:A/2(AB)$^4$(A)
