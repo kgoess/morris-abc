@@ -8,13 +8,16 @@ A:Longborough
 O:English
 R:Reel
 %P:A(AB$^2$)$^2$(AC$^2$)$^2$
-%%partsfont        Times-Italic  22
+%%partsfont        Times-Italic  18
 Q:1/2=70
 P:IA(AB2)2(AC2)2
+%%vocalfont Times 12
 %%writefields N               % the N: field is printed out
-N:arr. Alison S. 2015-10-24
+%%scale .9
+N:arr. Alison S. 2015-10-28
 K:G
-P:I Intro
+[I: scale 0.68]
+P:Intro
 D2 | "G" G2 D2 G2 A2 | "G" B2 cB "D" A2 Bc | "G" d2 G2 BAGF | G4 z2 D2 |
 w:Some | talk  of Al-ex- | an_-der and_ | some of  Her_cu_ | les, Of 
      "G" G2 D2 G2 A2 | "G"  B2 cB "D" A2 Bc | "G" d2 G2 BAGF | G4 z2 Bc |
@@ -23,10 +26,21 @@ w: Hec-tor and Ly- | sa_-der and_ | such great names_ as_ | these. But of
 w: all the world's great | he_roes there's | none that can_ com_ | pare_ With a 
      "G" G2 G2  "D" A2 A2 | "G" B2 B2  "C" c2 Bc | "G" d2 G2 "D" BAGF | "G" G4 z2 ||
 w: tah rah rah rah  | rah rah rah to the | Bri-tish Gre_na_ | diers.
+%%scale 0.74
 P:A
  D2 | "G" G2 D2 G2 A2 | B2 cB "D" A2 Bc | "G" d2 G2 G2 B2 | "D" AGFE  D4 |
       "G" G2 D2 G2 A2 | B2 AB "C" c2 Bc | "G" d2 G2 "D" BAGF  | "G" G4    ||
 P:B
 "G" GABc |  "G" d3 e  d2 c2 | B2 c2  d2 d2 | "C" e2 e2 "G" dcBA  | "A" G2 AG "D" F2 D2 |
       "G" G2 FG "D" A2 GA | "G" B2 AB "C" c2 Bc | "G" d2 G2 "D" BAGF  | "G"  G4    G2 :||
+[I: scale 0.64]
+P:Final B after rounds
+"G" GABc |  "G" d3 e  d2 c2 | B2 c2  d2 d2 | "C" e2 e2 "G" dcBA  |
+ "A" G2 AG "D" F2 D3/2 D/ | "G" G2 G2 "D" A2 A2 | "G" (d3 B) G3/2 G/ B3/2 G/ | "C" E2 c4 "D" A3/2 F/ | "G" G4 |]
+
+% "G" G2 FG "D" A2 GA | "G" B2 AB "C" c2 Bc | "G" d2 G2 "D" BAGF  | "G"  G4    G2 |]
+%The chords go G-D/G-G/C-D/G
+
+
+
 
