@@ -1,0 +1,25 @@
+X:1
+T:Idiot (my version), The
+M:4/4
+C:Stan Rogers
++%%writefields S               % the S: field is printed out
+S:Berkeley Morris (1988 May 1)
+N:
+A:Field Town
+O:Canada
+R:Reel
+P:2(AB)2(AC)
+K:G
+P:A
+GA | "G"B2 d2 d2 cB | "D" A2 A2 "G" B2 DD | "C" E2 G2 G2 F2 | E4  z2D2 |
+  E2 G2 G2 FE | "G" D2 G2 G2GA |1 "G"Bc d2 "Am"c2 B2 | "D"A4  z2:|[2"G"B2d2"D"B2A2|"G"G4z2|]
+P:B
+Bd | "C"e2 e2   e2    "D"dc | "G"Bc d2 d2 c2 | "Em"BA G2 G2 B2 | "G"B4z2  G2 |
+"C"e2 e2   e2    "D"dc | "G"Bc d2 d2 c2 | "Em"B2 G2 "Am"c2 B2 | "D"A4  z2[Gd][Ac] |
+"G"B2 cd   d2    cB | "D"A2 A2 "G"B2 D2 | "C"E2 G2 G2 F2 | E4  z2GF|
+ "C"E2 G2   G2    FE | "G"D2 G2 G2  A2 | "G"Bc d2  "D" B2A2 | "G"G4  z2 |]
+P:C
+Bd [| "C"e4 e2z2 | e4 "(D)"d2 c2 |"G"Bc d2 d2 cd | "Em" BA G2 G2 B2 | "G"B4  z2G2 |
+"C"e4 e2z2 | e4 "D"d2 c2 | "G" Bc d2 d2 c2 | "Em"BA G2 "Am"c2 B2 | "D"A4  z2[Gd][Ac] |
+"G"B2 cd   d2    cB | "D"A2 A2 "G"B2 D2 | "C"E2 G2 G2 F2 | "(Em)"E4  z2GF |
+ "C"E2 G2   G2    FE | "G"D2 G2 G2  c2 | "G"Bc d2 "D"B2 A2 | "G"G4  z2 |]
