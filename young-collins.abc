@@ -7,8 +7,6 @@ N:
 A:Bledington
 O:English
 %%writefields N               % the N: field is printed out
-N:ok Alison S. 2015-10-26
-N:Pipe & Bowl: https://www.youtube.com/watch?v=ea0pRlOA0kA
 R:Reel
 %P:A/2(AB)$^4$(A)
 Q:1/2=75
@@ -23,3 +21,5 @@ P:A
 P:B
 |: "C" E2 D2 EF G2 | "D" A2 A2 "G" G3 A  | "G" B2 A2 Bc d2 | "C" e2 e2 "D" dcBA |
 |"G" GABc  d2 d2 | "C" c2 e2 "D" A2 Bc | "G" d2 d2 "C" e2 dc | "D" B2 A2 "G" G4 :|
+%%ok Alison S. 2015-10-26
+%%Pipe & Bowl: https://www.youtube.com/watch?v=ea0pRlOA0kA
