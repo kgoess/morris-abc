@@ -4,7 +4,6 @@ C:Fieldtown
 Q:1/4=140
 M:2/2
 L:1/8
-N:pdf from berkmo website 2008-10-20
 P:A(A2B2)3A2
 K:D
 P:A
@@ -14,4 +13,11 @@ P:B
 "D" AGFE D2 EF | "G" G2 A2 B2 "A" c2 | "D" dcBA "G" G2 A2 | "G" Bcdf "A" e2 ce |
 "G" d2 Bd "A" c2 A2 | "G(Em)" BGEF G2 B2 | "D" AGFE D2 EF | "G" G4 G4 |]
 
+%%textfont Times-Italic 12
+%%begintext justify
+
+
+
+via PDF from berkmo website dated 2008-10-20
+%%endtext
 
