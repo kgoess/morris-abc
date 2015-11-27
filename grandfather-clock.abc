@@ -3,16 +3,29 @@ T:Grandfather Clock
 M:4/4
 C:
 S:Berkeley Morris
-N:dance by Anton Cepernich
 A:Field Town
 O:
 R:Reel
 %%partsfont        Times-Italic  22
-P:A((AB)2C2)2C
-%%writefields N               % the N: field is printed out
-N:arr. Alison S. 2015-10-24
-Q:1/2=70
+P:Sing((AB)2C2)2C
+Q:1/4=140
 K:G
+[I: scale 0.62]
+P:Sing
+ D2 | G2 FG A2 GA | B2  cB E2 AA | G2 GG FE F2 |  
+w:My | grand-fa-thers clock was too | large for the shelf, So it | stood nine-ty years on the  |
+G4  z2 D D    | G2 FG A2 GA | B2  cB E2 AA |
+w:floor;  It was| tall-er by half than the | old man him-self, Though it | 
+G2 GG FE F2 |  G4  z2  Bc | d2 BA G2 FG |
+w:weighed not a pen-ny-weight | more. It was | bought on the morn of the | 
+AG    FE D2 Bc | d2 BA G2 FG |   A6  DD |
+w:day that he was born, And was | al-ways his trea-sure and | pride; But it |
+G2 z2  A2 z2 | (3BBB cB E2 AA | G4 FEF2 | G4 z2 |
+w: stopped short | ne-ver to go a-gain when the| old man__ | died. |
+%%begintext obyelines
+
+%%endtext
+%%scale 0.74
 P:A
  D2 | "G" G2 FG "D" A2 GA | "G" B2  cB "C" E2 AA | "G" G2 GG "D" FE F2 |  "G" G4  z2 D2    |
  "G" G2 FG "D" A2 GA | "G" B2  cB "C" E2 AA | "G" G2 GG "D" FE F2 |  "G" G4  G2    ||
@@ -22,3 +35,8 @@ P:B
 P:C
    DD | "G" G2 DD "C" EE D2 | "G" B,2 D2 B,2 D2 | "G" G2 DD "C" EE D2 | "G" B,2 D2 B,2 DD      
    | "G" G2 z2 "D" A2 z2 | "G" (3BBB cB "C" E2 AA | "G" G2 GG "D" FE F2 | "G" G4     G2    ||
+%%textfont Times-Italic 12
+%%begintext obyelines
+dance by Anton Cepernich
+arr. Alison S. 2015-10-24
+%%endtext
