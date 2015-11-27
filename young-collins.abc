@@ -6,14 +6,11 @@ S:Bacon (CJS from Benfield \& Bond, 1909)
 N:
 A:Bledington
 O:English
-%%writefields N               % the N: field is printed out
 R:Reel
 %P:A/2(AB)$^4$(A)
 Q:1/2=75
 P:A.(AB)4(A)
 K:G
-%%writefields N               % the N: field is printed out
-N:arr. Alison S. 2015-10-18
 %I:speed 400
 L:1/8
 P:A
@@ -23,3 +20,10 @@ P:B
 |"G" GABc  d2 d2 | "C" c2 e2 "D" A2 Bc | "G" d2 d2 "C" e2 dc | "D" B2 A2 "G" G4 :|
 %%ok Alison S. 2015-10-26
 %%Pipe & Bowl: https://www.youtube.com/watch?v=ea0pRlOA0kA
+%%textfont Times-Italic 12
+%%begintext justify
+
+
+
+arr. Alison S. 2015-10-18
+%%endtext
