@@ -7,11 +7,11 @@ L:1/8
 %P:A(A2B2)3A2
 K:Em
 P:A
-"Em" E2 EF GF E | "D" A2 AG FE D2 | "Em" E2 EF GF E | "D" AG FG A4 |
-"Em" E2 EF GF E | "D" A2 AG FE D2 | "Em" E B2 E "C" B2 AG | "D" FE D2 "Em" E4 :||
+"Em" E2 EF GF E2 | "D" A2 AG FE D2 | "Em" E2 EF GF E2 | "D" AG FG A4 |
+"Em" E2 EF GF E2 | "D" A2 AG FE D2 | "Em" E B2 E "C" B2 AG | "D" FE D2 "Em" E4 :||
 P:B
-"G" B2 z B-BA G2 | z A-AG AG F2 | "Em" G2 z G-GF E2 | "D" AG FG A4 |
-"G" B2 z B-BA G2 | z A-AG AG F2 | "Em" E B2 E "C" B2 AG | "D" FE D2 "Em" E4 :|] 
+"G" B2 z B-BA G2 | "D" z A-AG AG F2 | "Em" G2 z G-GF E2 | "D" AG FG A4 |
+"G" B2 z B-BA G2 | "D" z A-AG AG F2 | "Em" E B2 E "C" B2 AG | "D" FE D2 "Em" E4 :|] 
 %%textfont Times-Italic 12
 %%begintext justify
 
