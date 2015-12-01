@@ -1,0 +1,19 @@
+X:1
+T: Rambling Sailor (Simon's Fancy)
+P: ABBB
+M:4/4
+R:
+K:Dmix
+% Notated as G, but actually D Mixolydian
+P:A
+  AF |: D2 A2 AFGE | D2 D2 c3 d | cABG AFGE |1 D4 D2  AF :|2 D4 D2 A2 |
+P:B
+  |: ABcA d2 d2 | ABcA d3 d | c2 Ac B2 GB |ABAG E3 A |
+  D2 A2 AFGE | D2 D2 c3 d | cABG AFGE |1 D4 D2 A2 :|2 D4 D4 |
+%%textfont Times-Italic 12
+%%begintext justify
+
+
+
+2015-11-30
+%%endtext
