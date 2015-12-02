@@ -1,0 +1,25 @@
+X:1
+T:Jockey to the Fair
+C:Adderbury
+M:6/8
+L:1/8
+A:Adderbury
+P:A(AB)4
+%%writefields N               % the N: field is printed out
+N:Different traditions have different numbers of measures in 
+N:the B part - everything from 8 to 14. You just have to know.
+K:G
+P:A
+D|G2A  B2c|d2g d2c | B3/d/B  G3/F/G | A3/c/B A2 D|
+G2A  B2c|d2g d2g | f3/e/d    A3/B/^c| d3 d2 ||
+P:B
+d|g2d  g2d| cBc B2d |g2d g2d| cBc B2d|e2f gfe |
+d2c Bcd | edc  B2A| G2F E2D | G2G GBd |e3 d2g|  
+edc B2A| G2F E2D| G2B  dcA|G3  G2 ||
+%%textfont Times-Italic 12
+%%begintext justify
+
+
+
+2015-11-30
+%%endtext
