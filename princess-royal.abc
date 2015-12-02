@@ -5,7 +5,7 @@ M:4/4
 L:1/4
 %%partsfont        Times-BoldItalic  22
 %%writefields N               % the N: field is printed out
-N:arr. Alison S. 2015-10-28
+N:arr. Alison S. 2015-12-01
 K:G
 P:A
   d/2c/2 | "G" B "D" A "G" G d/2c/2 | "G" B "D" A "G" G d | "C" e c c/2d/2 e/2c/2 | "G" d B B3/2 d/|
@@ -13,9 +13,9 @@ P:A
 P:B
  d| "C" e3/2 d/2 e3/2 d/2 | e f "G" g2 | "G/B" g f "C" e d | "G" B/2A/2 G/B/ "D" A2 |
   "G" G G "D" A A | "G" B/2A/2 G "C" g2 | g d "C" e3/2 e/ | "G" d B "C" c2 |
-  "C" c B A G  | "D" F/2G/2A/2F/2 Dd/2c/2 | "G" B A/2G/2 "D" A F | "G" G2 G |
+  "C" c B A G  | "D" F/2G/2A/2F/2 Dd/2c/2 | "G" B A/2G/2 "D" A F | "G" G2 G ||
 P:C
- d/c/ | "G" B2 "D" A2 | "G" G2 dc | "G" B2 "D" A2 | "G" G2 d2|
+ dc | "G" B2 "D" A2 | "G" G2 dc | "G" B2 "D" A2 | "G" G2 d2|
  "C" e2 c2 | c d e c| "G" d2 B2| B3 z/2 d/2 |
- "C" c B A G  | "D" F/2G/2A/2F/2 Dd/2c/2 | "G" B A/2G/2 "D" A F | "G" G2 G2 |
+ "C" c B A G  | "D" F/2G/2A/2F/2 Dd/2c/2 | "G" B A/2G/2 "D" A F | "G" G2 G2 ||
 
