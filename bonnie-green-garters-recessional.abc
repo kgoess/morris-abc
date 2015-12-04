@@ -1,0 +1,28 @@
+X:1
+T:Bonny Green Garters - Bampton
+M:6/8
+C:
+S:Bacon (MDT)
+A:Bampton
+O:English
+R:Jig
+K:D
+Q:1/4=140
+P:A
+A |: d>cd AFA | B>AB ABc  | d>cd efg |1 faf ede  :|2 f2e d2 d||
+P:B
+K:G
+|:d>cB AGF|G>AB cde| d2d dcB |1 B3A2d:|2 A3 G2 d||
+P:C
+|: d>cB AGF | G3 A2 d | dcB AGF | G3 A2 d | d>cB AGF  |
+G>AB cde | d>ed dcB | A3 G2|]
+
+%%textfont Times-Italic 12
+%%begintext justify
+
+
+
+2015-12-13
+%%endtext
+
+
