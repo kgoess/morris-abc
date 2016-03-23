@@ -8,21 +8,21 @@ N: Written March 27, 2002
 N: © 2002 Andrew Marcus
 N: source http://jc.tzo.net/~jc/music/abc/demo/Tunes/PlumBoogery.abc
 N: Morris dance video: https://www.youtube.com/watch?v=WWd897eisX8
-K:Dm
-C:Andrew Marcus
-Q:125
+K:Em
+M:4/4
+Q:1/4=125
 L:1/8
 M:7/8
-P: A
-"Dm" A2 D z DEF | E2 G z FED | "Bb" A2 D z DEF | "C" EGF EDDC |
-"Dm" A2 D z DEF | E2 G z FED | "Gm" A2 D z BAG | "Am" AGF GFEC ||
-P: B
-"Gm" B,CD DEFD | "Dm" A,CD DEFD | "C" CDE z EFG | FAG "Am" FEDC
-"Gm" B,CD DEFD | "Dm" A,CD DEFD | "C" CDE EFG "Dm" (F | "Am" DEC) D z3 ||
+P:A
+"Em" B2 E2 EFG | "D" F2 A2 GFE | "C" B2 E2 EFG | "D" (FAG) (FE)(ED) |
+"Em" B2 E2 EFG | "D" F2 A2 GFE | "C" B2 E2 cBA |[1: "D" (BAG) "^(Intro Only)" (AG)(FE) [2:"D" (BAG) "^All Other times" (AG)(FD) ||||
+P:B
+"Am" (CDE) (EF)(GE) | "Em" (B,DE) (EF)(GE) | "D" (DEF) z (FGA) | "Em" (GBA) (GF)(ED)
+"Am" (CDE) (EF)(GE) | "Em" (B,DE) (EF)(GE) | "D" (DEF) (FGA) (G | "Em" E)(FD) E z3 ||
 %%begintext justify
 
 
 
-ok Alison S. 2016-02-23
+arr. Alison S. 2016-03-22
 %%endtext
 
