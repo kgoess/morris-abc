@@ -1,0 +1,23 @@
+X:1
+T:Galopede
+C:for the dance Paliteros
+Q:1/4=100
+P:ABBC
+M:4/4
+L:1/8   
+K:G
+P:A
+dc|B2BcA2AB|G2G2G2AB|cBcd edcB|A2A2A2dc|
+B2BcA2AB|G2G2G2AB|cBAG FGAF|G2G2G2||
+P:B
+dc|B2gfe2ed|dcBcA2dc|B2gf edcB|c2A2A2dc|
+B2gfe2ed|dcBcA2dc|BdcB AcBA|G2G2G2Bc:|
+P:C
+d2d2d2g2|d2d2d2g2|d2d2edcB|c2A2A2Bc|
+d2d2d2g2|d2d2d2g2|edcB dcBA|G2G2G2|]
+
+%%textfont Times-Italic 12
+%%begintext justify
+new 2018-05-14
+%%endtext
+
