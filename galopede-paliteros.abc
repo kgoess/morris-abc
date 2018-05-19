@@ -1,23 +1,20 @@
 X:1
 T:Galopede
 C:for the dance Paliteros
-Q:1/4=100
+Q:1/4=80
 P:ABBC
 M:4/4
 L:1/8   
 K:G
-P:A
-dc|B2BcA2AB|G2G2G2AB|cBcd edcB|A2A2A2dc|
-B2BcA2AB|G2G2G2AB|cBAG FGAF|G2G2G2||
-P:B
-dc|B2gfe2ed|dcBcA2dc|B2gf edcB|c2A2A2dc|
-B2gfe2ed|dcBcA2dc|BdcB AcBA|G2G2G2Bc:|
-P:C
-d2d2d2g2|d2d2d2g2|d2d2edcB|c2A2A2Bc|
-d2d2d2g2|d2d2d2g2|edcB dcBA|G2G2G2|]
+dc| "G" B2Bc "D" A2AB | "G" G2G2G2AB| "C" cBcd edcB | "D" A2A2A2dc|
+"G" B2Bc "D" A2AB | "Em" G2G2G2AB | "Am(C)" cBAG  "D" FGAF| "G" G2G2G2||
+Bc| "G" d2gf "C" e2e2 | "D" dcBc A2 Bc | "G" B2gf "C" edcB | "D" A2 A2 A2 Bc|
+"G" d2gf "C" e2e2 | "D" dcBcA2dc | "G" BdcB "D" AcBA | "G" G2G2G2:|
+Bc | "G" d2d2d2g2 | "G" d2d2d2g2 | "G" d2d2 "C" edcB | "D" A2A2A2Bc|
+"G" d2d2d2g2 | "G" d2d2d2g2 | "C" edcB "D" dcBA | "G" G2G2G2|]
 
 %%textfont Times-Italic 12
 %%begintext justify
-new 2018-05-14
+arr. Alison S.  2018-05-19
 %%endtext
 
