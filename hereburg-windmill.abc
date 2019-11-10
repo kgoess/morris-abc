@@ -1,17 +1,21 @@
 X:1
 T:Hereburg Windmill
 C:Peter McDonald, April 1990
+%%writefields N               % the N: field is printed out
 N:Hereburgh Morris
-N:'X/y' means that base note 'y' should be played with chord 'X' if possible
 Q:3/8=84
 M:6/8
 L:1/8   
 K:G
-P:A
 |"Em"B2EE2G|"D"FGA "Em"B2E|B2B "D"ABc|"G"d6|
-"C"efg "G"dBG| "D"ABc "G"B2D| "C"E2c "D"AGF|"G"G6||
-P:B
-"D"F2A cBA|"G" GDB d3|"C"e2e efg| "G"d6|
-"C"ece "G/b"dBd|"D/a"cBA "G" B2D|"C"E2c "D"AGF|"G"G6|
-"D"F2A cBA| "G"GDB d3|"C"e2e efg|"G"d6|
+"C"efg "G"dBG| "D"ABc "G"B2D| "C"E2c "D"AGF|"G"G3 GAG||
+"D"F2A cBA|"G" GDB d3|"C"e2e efg| "D"d6|
+"C"ece "G"dBd|"D"cBA "G" B2D|"C"E2c "D"AGF|"G"G3 GAG|
+"D"F2A cBA| "G"GDB d3|"C"e2e efg|"D"d6|
 "C"efg "G"dBG|"D"ABc "G"B2D| "C"E2c "D"AGF| "G"G6|]
+
+
+%%textfont Times-Italic 12
+%%begintext justify
+arr. Alison S. 2019-10-27
+%%endtext
