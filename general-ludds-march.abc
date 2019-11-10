@@ -1,15 +1,18 @@
 X:1
 T:General Ludd's March 
 C:Fieldtown
-Q:1/4=140
 M:6/8
 L:1/8   
 K:Gmix
 P:A
-dc |"G" B3/2A/G GED |"(C)" EGc "G" B2 A |"G" G3/2E/D EGA |"D" A3 zdc|
-"G" B3/2A/G GED |"(C)" EGc "G" B2 A |"G" G3/2E/D "(C)" EGG |"G" G3 z2 G |
+dc |"G" B3/2A/G GED |"C" EGc "G" B2 A |"G" GED DEG |"A" A3- "D" Adc|
+"G" B3/2A/G GED |"C" EGc "G" B2 A |"G" GED EGG |"G" G3- G2 D |
 P:B
-"G" G3/2B/d dBd |"(C)" e3/2d/c "G" Hd2 c| "G" B3/2A/G GBd |"D" A3 zdc|
-"G" B3/2A/G GED |"(C)" EGc "G" B2A| "G" G3/2E/D "(C)" EGG |"G" G3 D2E |
-"F" F2F EDC |"G" D3 G2A |"G" Bdc BG "(F)" F | "G" G3-G z2|]
+"G" GBd dBd |"C" edc "D" Hd2 c| "G" B3/2A/G GBd |"D" A3 Adc|
+"G" B3/2A/G GED |"C" EGc "G" B2A| "G" GED EGG |"G" G3 D2E |
+"F" =F2F "C" EDC |"D" D3 G2A |"G" Bdc "F" BG=F | "G" G3-G |]
 
+%%textfont Times-Italic 12
+%%begintext justify
+arr. Alison S.  2019-10-27
+%%endtext
