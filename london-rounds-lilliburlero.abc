@@ -1,0 +1,25 @@
+X:1
+T:London Rounds
+T:(Lillibulero)
+M:6/8
+C:Trad. (Fieldtown)
+S:Berkeley version
+O:English
+R:Jig
+K:G
+P:[A]
+D | "G" G>AG B2 B | "D" A>BA c2 c | "G" BdG "C" c2 B | "D" AGF "G" G2 :|
+P:[B]
+d | "G" g2 f g2 d | "F" =f2 f "D" e2 d | "G" def gfe  | dcB "D" A2 d|
+"C" edc  "G" Bcd  | "C" edc  "G" Bcd  | "C" egG c2 B | "D" AGF "G" G2 ||
+P:[C]
+d | "G" g2 f g2 d | "F" =f2 f "D" e2 d | "G" def gfe  | dcB "D" A2 d|
+[M: 4/4] "C"  ed c2 "G" Bc d2  | "C" ed c2 "G" Bc d2 |[M: 6/8]  "C" egG c2 B | "D" AGF "G" G2 |]
+w:SLOWS
+
+
+%%textfont Times-Italic 12
+%%begintext justify
+
+arr. Alison S.  2019-10-27
+%%endtext
