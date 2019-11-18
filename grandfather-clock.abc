@@ -22,21 +22,21 @@ AG    FE D2 Bc | d2 BA G2 FG |   A6  DD |
 w:day that he was born, And was | al-ways his trea-sure and | pride; But it |
 G2 z2  A2 z2 | (3BBB cB E2 AA | G4 F4 | G4 z2 |
 w: stopped short | ne-ver to go a-gain when the| old man | died. |
-%%begintext obyelines
+%%begintext obeylines
 
 %%endtext
 %%scale 0.74
-P:A
+P:[A]
  D2 | "G" G2 FG "D" A2 GA | "G" B2  cB "C" E2 AA | "G" G2 GG "D" FE F2 |  "G" G4  z2 D2    |
  "G" G2 FG "D" A2 GA | "G" B2  cB "C" E2 AA | "G" G2 GG "D" FE F2 |  "G" G4  G2    ||
-P:B
+P:[B]
    Bc | "G" d2 BA G2 FG | "D" AG    FE D2 Bc | "G" d2 BA G2 FG |
    "D" A6  DD | "G" G2 z2  "D" A2 z2 | "G" (3BBB cB "C" E2 AA | "G" G2 GG "D" FE F2 | "G" G4     G2    ||
-P:C
+P:[C]
    DD | "G" G2 DD "C" EE D2 | "G" B,2 D2 B,2 D2 | "G" G2 DD "C" EE D2 | "G" B,2 D2 B,2 DD      
    | "G" G2 z2 "D" A2 z2 | "G" (3BBB cB "C" E2 AA | "G" G2 GG "D" FE F2 | "G" G4     G2    ||
 %%textfont Times-Italic 12
-%%begintext obyelines
+%%begintext obeylines
 dance by Anton Cepernich
 arr. Alison S. 2015-11-30
 %%endtext
