@@ -1,14 +1,23 @@
 X:7003
 T:Gardener's Delight
 R:Jig
-C:Chris Drinkwater, 2011
-Z:Paul Hardy's Possible Tunebook 2013 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+C:Chris Drinkwater
 M:6/8
 L:1/8
-Q:3/8=100
 K:G
-"G"G2B"D7"A2c|"G"Bdg "C"ece|"G"dBd "D7"cAF|"G"GAB "D7"A2d|
-"G"G2B"D7"A2c|"G"Bdg "C"ece|"G"dBd "D7"cAF|cAF "G"G3:|
-|:"G"dBd dBd|"D7"cAc cAc|"G"BGB BGB|"D"AFE D2e|1
-"G"dBd dBd|"D7"cAc cAc|"G"BGB BGB|"D7"A6:|2
-"G"G2B"D7"A2c|"G"Bdg "C"ece|"G"dBd "D7"cAF|cAF "G"G3|]
+%%measurenb 0
+P:[A]
+D| "G" G2B "D" A2c | "G" Bdg "C"ece | "G"dBd "D" cAF | "G" GAB "D" A2D|
+"G" G2B "D" A2c| "G" Bdg "C" ece | "G" dBd "D" cAF | "D" cAF "G" G2 ||
+P:[B]
+d | "G" dBd dBd | "D" cAc cAc | "G" BGB BGB | "D" AFE D2d |
+"G" dBd dBd | "D" cAc cAc | "G" BGB BGB | "D" A3-A2 d |
+"G" dBd dBd | "D" cAc cAc | "G" BGB BGB | "D" AFE D2 D |
+"G" G2B "D" A2c | "G" Bdg "C" ece | "G" dBd "D" cAF | cAF "G" G2|]
+
+%%textfont Times-Italic 12
+%%begintext justify
+
+arr. Alison S. 2019-11-17
+%%endtext
+
