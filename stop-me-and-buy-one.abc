@@ -1,9 +1,17 @@
 X:1
+T:Stop Me and Buy One
 T:World Turned Upside Down
 M:4/4
-Q:160
+Q:1/4=145
 L:1/4
 K:G
-| DGGG| A/B/ c/d/ B A/B/ | cEFB | A2 G2 :|
-| AF/G/A2 | AF/G/A2 | AF/G/ A/G/ F | E2 D2 |
-d3/2 c/B  A/G/ | A/B/ c/d/ B  A/B/ | c EFB | A2G2 ||
+!fermata! G !fermata! E  | "G" DGGG| "D" A/B/c/d/ "G" B A/B/ | "C" cE "D" FB | "D" A2 "G" G2 :|
+| "D" AF/G/A2 | "D" AF/G/A2 | "D" AF/G/ A/G/ F | "A" E2 "D" D2 |
+"D" d3/2 c/B  A/G/ | "D" A/B/c/d/ "G" B  A/B/ | "C" c E "D" F B | "D" A2 "G" G2 ||
+
+%%textfont Times-Italic 12
+%%begintext justify
+
+arr. Alison S. 2019-11-17
+%%endtext
+
