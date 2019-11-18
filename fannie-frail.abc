@@ -4,9 +4,18 @@ C:Trad
 M:4/4
 L:1/4
 K:D
-P:A
-|: "D" FA "G" GB | "D" A d/2>e/2 f d | "G" gfed |[1 "A" cBAG [2 "A" c/2>A/2B/2c/2  "D" d2 |
-P:B
-"A" eAe3/2f/2 | gfe3/2f/2 | "(G)" gfed | "A" cBAG |
-"D" FA "G" GB | "D" A d/2>e/2 f d | "G" gfed | "A" c/2>A/2B/2c/2 "D" d2 |
+P:[A]
+%%measurenb 0
+"D" FA "A" GB | "D" A d/2>e/2 f d | "G" gfed | "A" cBAG |
+"D" FA "A" GB | "D" A d/2>e/2 f d | "G" gfed | "A" c/2>A/2B/2c/2  "D" d2 ||
+P:[B]
+[|: "A" eAe3/2f/2 | "G" g f "A" e3/2 f/2 | "G" gfed | "A" cBAG |
+"D" FA "A" GB | "D" A d/2>e/2 f d | "G" gfed | "A" c/2>A/2B/2c/2 "D" d2 :|]
+
+
+%%textfont Times-Italic 12
+%%begintext justify
+
+arr. Alison S. 2019-11-17
+%%endtext
 
