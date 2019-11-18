@@ -1,16 +1,23 @@
 X: 12
-T:Matilda's Weave / Sherrif's Ride (Raggle Taggle Gypsies)
+T:Matilda's Weave
+T:Raggle Taggle Gypsies
 M:4/4
 L:1/8
 S:Berkeley Morris
 A:Fieldtown
-P:A.(AB)4.AA
 N:  https://downsouthphotos.smugmug.com/Music/Music/i-rKx8thc/0/L/IMG-L.jpg 
 K:Edor
+%%measurenb 0
 P:A
-BA |: "Em" G2E2 E2 FG | "D" AG F2 "Em" E2 B2| "Em" e2e2 e2 fe | "Bm" d2 B2 B3 c |
-"D" d2 d2  "Em" e2 Bc | "Bm" dc B2 "A" A2 F2 | "Em" GF GB "D" d=c  BA|[1 "Em" B2E2 E2 BA:|[2 "Em" B2E2 E2 zB|]
+BA | "Em" G2E2 E2 FG | "D" AG F2 "Em" E2 B2| "Em" e2e2 e2 fe | "D" d2 B2 B3 c |
+"D" d2 d2  "Em" e2 Bc | "D" dc B2 "B" A2 F2 | "Em" GFGB "D" d=cBA |"Em" B2E2 E4 |
 P:B
-| e2e2 e2 fe |d2 B2 B4 |e3 f g2 fe| d2 B2 B3 c | d2d2 e2 Bc|
- dc B2 A2 F2 | GF GB d=c BA |[1 B2E2 E3 B:|[2 B2E2 E4|]  
+| "C" e2 e2 e2 fe | "G" d2 B2 B4 | "C" e3 f g2 fe | "G" d2 B2 B3 c |
+"D" d2 d2 "Em" e2 Bc | "D" dc B2 "B" A2 F2 | "Em" GFGB "D" d=cBA | "Em" B2E2 E2 |]
  
+%%textfont Times-Italic 12
+%%begintext justify
+
+arr. Alison S. 2019-11-17
+%%endtext
+
