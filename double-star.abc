@@ -1,14 +1,20 @@
 X:1
+T:Double Star
 T:Enrico
-T:(Double Star)
 C:Hornpipe
-Q:1/4=120
+Q:1/4=140
 M:4/4
 L:1/8   
 K:G
-P:A
-D2|G2BA GFGE|DEDC B,2D2|G2AB cBcB|A2d2d2D2|
-G2BA GFGE|DEDCB,2D2|E2cB AGAF|G2G2G2|]
-P:B
-Bc|d2dc BcBA|GAGFE2E2|cdcB ABAG|FGFED2 (3DEF|
-G2G2FAFD|G2G2FAFD|G2cB AGAF|G2G2G2|]
+%%measurenb 0
+D2|"G" G2 BA "C" GFGE | "D" DEDC "G" B,2 D2 | "G" G2 AB "C" cBcB | "D" A2 d2 d2 D2|
+"G" G2 BA "C" GFGE | "D" DEDC "G" B,2 D2 | "C" E2 cB "D" AGAF | "G"  G2 G2 G2|]
+Bc | "G" d2 dc BcBA | "C"  GAGF E2 E2 | "Am" cdcB "AM" ABAG | "D" FGFE D2 D2 |
+"G" G2 G2 "D" FAFD | "G" G2 G2 "D" FAFD | "C" G2 cB "D" AGAF | "G" G2 G2 G2 |]
+
+%%textfont Times-Italic 12
+%%begintext justify
+
+arr. Alison S. 2019-11-17
+%%endtext
+
